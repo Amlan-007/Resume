@@ -1,0 +1,86 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  margin: 30px auto 0 auto;
+  font-size: 2.5rem;
+  font-family: 'Kaushan Script', cursive;
+  color: #66bfbf;
+}
+
+p {
+  font-family: 'Chau Philomene One', sans-serif;
+}
+
+h2 {
+  color: #11999E;
+}
+
+h3 {
+  color: #11999E;
+
+}
+hr{
+  border-style:none;
+  border-width: 5px;
+  border-top-style: dotted;
+  border-color: grey;
+  width: 5%
+
+}
+.pro {
+  font-size: 1.3rem;
+  color: #66bfbf;
+  font-weight: normal;
+}
+
+.top-container {
+  background-color: #cbf1f5;
+  padding-top: 80px;
+}
+
+.bottom-container {
+  padding: 30px;
+}
+.skill-row{
+width: 50%;
+margin:50px auto 200px auto;
+text-align: left;
+line-height: 2;
+}
+
+.c{
+  float: left;
+  width: 200px;
+}
+.java{
+  width: 150px;
+float:left;
+
+}
+
+
+span {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.top-cloud {
+  position: relative;
+  left: 300px;
+}
+.footer-link {
+  padding: 10px;
+}
+.bottom-container{
+  background-color: #11999E;
+ color: #eaf6f6;
+}
+.contact{
+  width: 200px;
+}
